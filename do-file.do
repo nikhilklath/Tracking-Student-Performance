@@ -1,7 +1,6 @@
 *********************************************
-* Candidate Number 80						*
-* Date: 11/16/2020							*
-* Stata Version Used: Stata 16 SE			*
+* Date: 11/16/2020			    *
+* Stata Version Used: Stata 16 SE	    *
 *********************************************
 
 set seed 12345678 // set seed for replicability of results
